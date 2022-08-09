@@ -18,7 +18,7 @@ if(nacionalidade) {
     console.log('a pessoa é do Chile !')
     break;
     
-    case('colonbiana'):
+    case('colombiana'):
     console.log('a pessoa é do Colômbia !')
     break;
 
